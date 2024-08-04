@@ -18,7 +18,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/jassu78/Meeting-Summarizer-and-Plan-of-Action-Generator.git
     ```
 2. **Navigate to the Project Directory**:
     ```bash
@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or inquiries, feel free to contact [your-email@example.com].
+For any questions or inquiries, feel free to contact [jaswanthjogi7815@gmail.com].
 
 ## working Screenshots
 
